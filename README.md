@@ -1,7 +1,16 @@
 # Some interesting sorting methods which must know everyone
 
-!All codes wrote on Python
+## Sorting Methods :
 
-## Selecting sorting
+
+>   Quick Sort
+
+>   Selecting Sort
+   
+>   Bogosort
+
+>   Merge Sort
+
+>   Bubble Sorting 
 
 
